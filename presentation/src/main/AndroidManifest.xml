@@ -13,7 +13,7 @@
 		android:theme = "@style/Theme.GPOAndroid"
 		>
 		<activity
-			android:name = ".base.MainActivity"
+			android:name = ".activity.MainActivity"
 			android:exported = "true"
 			>
 			<intent-filter>
